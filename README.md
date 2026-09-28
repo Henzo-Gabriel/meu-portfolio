@@ -38,3 +38,16 @@ Construir experiência prática em tecnologia, evoluindo de Front-end para Full 
 
 - LinkedIn: https://www.linkedin.com/in/henzo-gabriel-5823503b4
 - E-mail: gabriel.scholtz02@gmail.com
+
+## GitHub Foundations
+
+Este repositório também foi utilizado para aplicar, na prática, conceitos estudados na trilha GitHub Foundations.
+
+### Conceitos aplicados
+
+- Repositório e organização de arquivos
+- Commits
+- Branches
+- Pull Requests
+- Merge
+- Histórico de alterações
